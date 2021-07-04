@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save_and_close">Save and close</string>
+    <string name="remove_marker">Remove marker</string>
+</resources>
